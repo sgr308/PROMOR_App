@@ -1,0 +1,13 @@
+name: PROMOR_App
+title: PROMOR_App
+username:
+account: sgrbnf
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7236243
+bundleId: 6380590
+url: https://sgrbnf.shinyapps.io/PROMOR_App/
+when: 1665168072.74314
+lastSyncTime: 1665168072.74314
+asMultiple: FALSE
+asStatic: FALSE
