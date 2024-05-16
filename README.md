@@ -1,6 +1,11 @@
-# PROMOR App Ver 0.2.0
+# PROMOR App Ver 0.2.2
+### 15-May-2024: PROMOR App version 0.2.2 released.
+In this version, we have added more ML algorithms options and changed the results page dimensions.
 
-### 20-January-2023: PROMOR App version 0.2.0 released.
+### 19-July-2023: PROMOR App version 0.2.1 released.
+In this version: sig = adjP option shows “-log10.adj. P-value” on the y-axis and colors the dots by their “adjP” significance.
+
+### 20-January-2023: PROMOR App version 0.2.1 released.
 
 Instead of using LFQ intensity values, users can choose to extract other data types such as iBAQ from the proteinGroups.txt file.
 
